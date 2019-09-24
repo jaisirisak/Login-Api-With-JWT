@@ -1,0 +1,17 @@
+[{
+    "username": "admin",
+    "menu":[
+        "manageuser",
+        "profile",
+        "manageSaleItem",
+        "product"
+    ]
+},
+{
+    "username": "Sirisak",
+    "menu":[
+        "profile",
+        "product"
+    ]
+}
+]
